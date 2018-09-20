@@ -1,5 +1,8 @@
 _repo: Garibaldi-e-Montevideo_53485
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53485-h/images/cover.jpg
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53485#Garibaldi-e-Montevideo
 gutenberg_bookshelf: IT Biografie
 gutenberg_issued: '2016-11-09'
 gutenberg_type: Text
